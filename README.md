@@ -7,4 +7,6 @@ Responsive Design: It is designed to work on various screen sizes, making it acc
 Basic Operations: Perform addition, subtraction, multiplication, division, and more.
 Clear Functionality: Clear the display with the "AC" button and delete the last character with the "DE" button.
 Decimal Support: Easily input decimal numbers for precise calculations.
+
+
 [live demo](https://uharika77.github.io/Calculator/)
