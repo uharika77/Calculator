@@ -3,9 +3,13 @@ Welcome to the Calculator project! This simple web-based calculator allows users
 ## Features
 
 User-Friendly Interface: The calculator has a clean and intuitive design for easy usability.
+
 Responsive Design: It is designed to work on various screen sizes, making it accessible on both desktop and mobile devices.
+
 Basic Operations: Perform addition, subtraction, multiplication, division, and more.
+
 Clear Functionality: Clear the display with the "AC" button and delete the last character with the "DE" button.
+
 Decimal Support: Easily input decimal numbers for precise calculations.
 
 
